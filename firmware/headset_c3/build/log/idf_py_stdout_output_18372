@@ -1,0 +1,52 @@
+-- Found Git: C:/Program Files/Git/cmd/git.exe (found version "2.55.0.windows.1")
+-- ccache will be used for faster recompilation
+-- The C compiler identification is GNU 14.2.0
+-- The CXX compiler identification is GNU 14.2.0
+-- The ASM compiler identification is GNU
+-- Found assembler: H:/espressif/tools/riscv32-esp-elf/esp-14.2.0_20241119/riscv32-esp-elf/bin/riscv32-esp-elf-gcc.exe
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: H:/espressif/tools/riscv32-esp-elf/esp-14.2.0_20241119/riscv32-esp-elf/bin/riscv32-esp-elf-gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: H:/espressif/tools/riscv32-esp-elf/esp-14.2.0_20241119/riscv32-esp-elf/bin/riscv32-esp-elf-g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- git rev-parse returned 'fatal: not a git repository (or any of the parent directories): .git'
+-- Could not use 'git describe' to determine PROJECT_VER.
+-- Building ESP-IDF components for target esp32c3
+-- Project sdkconfig file H:/Projeto HeadSet Wireless/firmware/headset_c3/sdkconfig
+Loading defaults file H:/Projeto HeadSet Wireless/firmware/headset_c3/sdkconfig.defaults...
+-- Adding linker script H:/esp/esp-idf/components/riscv/ld/rom.api.ld
+-- Found Python3: H:/espressif/python_env/idf5.4_py3.14_env/Scripts/python.exe (found version "3.14.6") found components: Interpreter
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- Performing Test C_COMPILER_SUPPORTS_WFORMAT_SIGNEDNESS
+-- Performing Test C_COMPILER_SUPPORTS_WFORMAT_SIGNEDNESS - Success
+-- USING O3
+-- App "headset_c3" version: 1
+-- Adding linker script H:/Projeto HeadSet Wireless/firmware/headset_c3/build/esp-idf/esp_system/ld/memory.ld
+-- Adding linker script H:/Projeto HeadSet Wireless/firmware/headset_c3/build/esp-idf/esp_system/ld/sections.ld.in
+-- Adding linker script H:/esp/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.ld
+-- Adding linker script H:/esp/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.api.ld
+-- Adding linker script H:/esp/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.bt_funcs.ld
+-- Adding linker script H:/esp/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.libgcc.ld
+-- Adding linker script H:/esp/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.version.ld
+-- Adding linker script H:/esp/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.ble_master.ld
+-- Adding linker script H:/esp/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.ble_50.ld
+-- Adding linker script H:/esp/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.ble_smp.ld
+-- Adding linker script H:/esp/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.ble_dtm.ld
+-- Adding linker script H:/esp/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.ble_test.ld
+-- Adding linker script H:/esp/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.ble_scan.ld
+-- Adding linker script H:/esp/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.eco3.ld
+-- Adding linker script H:/esp/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.eco3_bt_funcs.ld
+-- Adding linker script H:/esp/esp-idf/components/esp_rom/esp32c3/ld/esp32c3.rom.newlib.ld
+-- Adding linker script H:/esp/esp-idf/components/soc/esp32c3/ld/esp32c3.peripherals.ld
+-- Components: app_trace app_update bootloader bootloader_support bt cmock console cxx driver efuse esp-tls esp_adc esp_app_format esp_bootloader_format esp_coex esp_common esp_driver_ana_cmpr esp_driver_cam esp_driver_dac esp_driver_gpio esp_driver_gptimer esp_driver_i2c esp_driver_i2s esp_driver_isp esp_driver_jpeg esp_driver_ledc esp_driver_mcpwm esp_driver_parlio esp_driver_pcnt esp_driver_ppa esp_driver_rmt esp_driver_sdio esp_driver_sdm esp_driver_sdmmc esp_driver_sdspi esp_driver_spi esp_driver_touch_sens esp_driver_tsens esp_driver_uart esp_driver_usb_serial_jtag esp_eth esp_event esp_gdbstub esp_hid esp_http_client esp_http_server esp_https_ota esp_https_server esp_hw_support esp_lcd esp_local_ctrl esp_mm esp_netif esp_netif_stack esp_partition esp_phy esp_pm esp_psram esp_ringbuf esp_rom esp_security esp_system esp_timer esp_vfs_console esp_wifi espcoredump esptool_py fatfs freertos hal heap hs_link http_parser idf_test ieee802154 json log lwip main mbedtls mqtt newlib nvs_flash nvs_sec_provider openthread partition_table protobuf-c protocomm pthread riscv rt sdmmc soc spi_flash spiffs tcp_transport ulp unity usb vfs wear_levelling wifi_provisioning wpa_supplicant
+-- Component paths: H:/esp/esp-idf/components/app_trace H:/esp/esp-idf/components/app_update H:/esp/esp-idf/components/bootloader H:/esp/esp-idf/components/bootloader_support H:/esp/esp-idf/components/bt H:/esp/esp-idf/components/cmock H:/esp/esp-idf/components/console H:/esp/esp-idf/components/cxx H:/esp/esp-idf/components/driver H:/esp/esp-idf/components/efuse H:/esp/esp-idf/components/esp-tls H:/esp/esp-idf/components/esp_adc H:/esp/esp-idf/components/esp_app_format H:/esp/esp-idf/components/esp_bootloader_format H:/esp/esp-idf/components/esp_coex H:/esp/esp-idf/components/esp_common H:/esp/esp-idf/components/esp_driver_ana_cmpr H:/esp/esp-idf/components/esp_driver_cam H:/esp/esp-idf/components/esp_driver_dac H:/esp/esp-idf/components/esp_driver_gpio H:/esp/esp-idf/components/esp_driver_gptimer H:/esp/esp-idf/components/esp_driver_i2c H:/esp/esp-idf/components/esp_driver_i2s H:/esp/esp-idf/components/esp_driver_isp H:/esp/esp-idf/components/esp_driver_jpeg H:/esp/esp-idf/components/esp_driver_ledc H:/esp/esp-idf/components/esp_driver_mcpwm H:/esp/esp-idf/components/esp_driver_parlio H:/esp/esp-idf/components/esp_driver_pcnt H:/esp/esp-idf/components/esp_driver_ppa H:/esp/esp-idf/components/esp_driver_rmt H:/esp/esp-idf/components/esp_driver_sdio H:/esp/esp-idf/components/esp_driver_sdm H:/esp/esp-idf/components/esp_driver_sdmmc H:/esp/esp-idf/components/esp_driver_sdspi H:/esp/esp-idf/components/esp_driver_spi H:/esp/esp-idf/components/esp_driver_touch_sens H:/esp/esp-idf/components/esp_driver_tsens H:/esp/esp-idf/components/esp_driver_uart H:/esp/esp-idf/components/esp_driver_usb_serial_jtag H:/esp/esp-idf/components/esp_eth H:/esp/esp-idf/components/esp_event H:/esp/esp-idf/components/esp_gdbstub H:/esp/esp-idf/components/esp_hid H:/esp/esp-idf/components/esp_http_client H:/esp/esp-idf/components/esp_http_server H:/esp/esp-idf/components/esp_https_ota H:/esp/esp-idf/components/esp_https_server H:/esp/esp-idf/components/esp_hw_support H:/esp/esp-idf/components/esp_lcd H:/esp/esp-idf/components/esp_local_ctrl H:/esp/esp-idf/components/esp_mm H:/esp/esp-idf/components/esp_netif H:/esp/esp-idf/components/esp_netif_stack H:/esp/esp-idf/components/esp_partition H:/esp/esp-idf/components/esp_phy H:/esp/esp-idf/components/esp_pm H:/esp/esp-idf/components/esp_psram H:/esp/esp-idf/components/esp_ringbuf H:/esp/esp-idf/components/esp_rom H:/esp/esp-idf/components/esp_security H:/esp/esp-idf/components/esp_system H:/esp/esp-idf/components/esp_timer H:/esp/esp-idf/components/esp_vfs_console H:/esp/esp-idf/components/esp_wifi H:/esp/esp-idf/components/espcoredump H:/esp/esp-idf/components/esptool_py H:/esp/esp-idf/components/fatfs H:/esp/esp-idf/components/freertos H:/esp/esp-idf/components/hal H:/esp/esp-idf/components/heap H:/Projeto HeadSet Wireless/firmware/components/hs_link H:/esp/esp-idf/components/http_parser H:/esp/esp-idf/components/idf_test H:/esp/esp-idf/components/ieee802154 H:/esp/esp-idf/components/json H:/esp/esp-idf/components/log H:/esp/esp-idf/components/lwip H:/Projeto HeadSet Wireless/firmware/headset_c3/main H:/esp/esp-idf/components/mbedtls H:/esp/esp-idf/components/mqtt H:/esp/esp-idf/components/newlib H:/esp/esp-idf/components/nvs_flash H:/esp/esp-idf/components/nvs_sec_provider H:/esp/esp-idf/components/openthread H:/esp/esp-idf/components/partition_table H:/esp/esp-idf/components/protobuf-c H:/esp/esp-idf/components/protocomm H:/esp/esp-idf/components/pthread H:/esp/esp-idf/components/riscv H:/esp/esp-idf/components/rt H:/esp/esp-idf/components/sdmmc H:/esp/esp-idf/components/soc H:/esp/esp-idf/components/spi_flash H:/esp/esp-idf/components/spiffs H:/esp/esp-idf/components/tcp_transport H:/esp/esp-idf/components/ulp H:/esp/esp-idf/components/unity H:/esp/esp-idf/components/usb H:/esp/esp-idf/components/vfs H:/esp/esp-idf/components/wear_levelling H:/esp/esp-idf/components/wifi_provisioning H:/esp/esp-idf/components/wpa_supplicant
+-- Configuring done (23.2s)
+-- Generating done (1.9s)
+-- Build files have been written to: H:/Projeto HeadSet Wireless/firmware/headset_c3/build

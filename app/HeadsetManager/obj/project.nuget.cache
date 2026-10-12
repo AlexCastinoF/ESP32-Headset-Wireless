@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "YGl7dV91fkU=",
+  "success": true,
+  "projectFilePath": "h:\\Projeto HeadSet Wireless\\app\\HeadsetManager\\HeadsetManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a61ccbcb2434068f552ed63f09f75ada\\nuget\\hidsharp\\2.1.0\\hidsharp.2.1.0.nupkg.sha512",
+    "C:\\Users\\Alex\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a61ccbcb2434068f552ed63f09f75ada\\nuget\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Alex\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a61ccbcb2434068f552ed63f09f75ada\\nuget\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Alex\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a61ccbcb2434068f552ed63f09f75ada\\nuget\\naudio\\2.2.1\\naudio.2.2.1.nupkg.sha512",
+    "C:\\Users\\Alex\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a61ccbcb2434068f552ed63f09f75ada\\nuget\\naudio.asio\\2.2.1\\naudio.asio.2.2.1.nupkg.sha512",
+    "C:\\Users\\Alex\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a61ccbcb2434068f552ed63f09f75ada\\nuget\\naudio.core\\2.2.1\\naudio.core.2.2.1.nupkg.sha512",
+    "C:\\Users\\Alex\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a61ccbcb2434068f552ed63f09f75ada\\nuget\\naudio.midi\\2.2.1\\naudio.midi.2.2.1.nupkg.sha512",
+    "C:\\Users\\Alex\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a61ccbcb2434068f552ed63f09f75ada\\nuget\\naudio.wasapi\\2.2.1\\naudio.wasapi.2.2.1.nupkg.sha512",
+    "C:\\Users\\Alex\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a61ccbcb2434068f552ed63f09f75ada\\nuget\\naudio.winforms\\2.2.1\\naudio.winforms.2.2.1.nupkg.sha512",
+    "C:\\Users\\Alex\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a61ccbcb2434068f552ed63f09f75ada\\nuget\\naudio.winmm\\2.2.1\\naudio.winmm.2.2.1.nupkg.sha512",
+    "C:\\Users\\Alex\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a61ccbcb2434068f552ed63f09f75ada\\nuget\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Alex\\AppData\\Local\\Temp\\cursor-sandbox-cache\\a61ccbcb2434068f552ed63f09f75ada\\nuget\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

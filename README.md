@@ -206,4 +206,6 @@ Não há equalizador, áudio espacial, atualização de firmware por dentro do p
 
 ## Licença
 
-Ainda não há arquivo `LICENSE` neste repositório. Para publicar como código aberto, escolha e inclua uma licença antes do primeiro push público. Sem esse arquivo, o padrão é que todos os direitos permanecem com o autor.
+O código deste repositório está na GNU General Public License versão 3. O texto completo está no arquivo `LICENSE`.
+
+Qualquer pessoa pode usar, estudar e modificar o headset, o firmware e o programa do Windows. Quem distribuir uma versão modificada, em fonte ou em binário, entrega junto o código correspondente sob a mesma GPL 3. O ESP-IDF continua sob Apache 2.0 e o TinyUSB sob a licença MIT; eles entram neste conjunto sem apagar a GPL do que é publicado daqui.
